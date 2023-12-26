@@ -1,4 +1,4 @@
-# Quicknode Data Pipeline
+# Quicknode Flipside Data Pipeline
 
 Background
 This Python script interacts with the Quicknode Flipside Query API to retrieve and process blockchain data. The script provides a simple framework to query the API, process the response data, and execute a data pipeline for further analysis.
